@@ -1,10 +1,10 @@
-# Rtridz Local
+# Rtridz homebrew repository
 
 ## How do I install these formulae?
 
-`brew install rtridz/local/<formula>`
+`brew install rtridz/homebrew/<formula>`
 
-Or `brew tap rtridz/local` and then `brew install <formula>`.
+Or `brew tap rtridz/homebrew` and then `brew install <formula>`.
 
 ## Documentation
 
